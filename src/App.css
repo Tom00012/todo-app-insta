@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -24,7 +24,7 @@
   color: white;
 }
 
-.App-link {
+.link {
   color: #61dafb;
 }
 
@@ -35,4 +35,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.clear {
+  padding-top: 2rem;
 }
